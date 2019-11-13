@@ -1,5 +1,5 @@
 {
-  "name": "vitorf7/lv-loadmorepagination",
+  "name": "aledefreitas/lv-loadmorepagination",
   "description": "Load More Pagination for Laravel. Allows to load an initial number of items and subsequent pages can load a different number of items",
   "version": "0.1.0",
   "keywords": [
